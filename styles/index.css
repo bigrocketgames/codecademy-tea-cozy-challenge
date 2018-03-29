@@ -119,3 +119,14 @@ a.nav-link {
   width: 300px;
   opacity: 1;
 }
+
+/* Contact */
+.contact {
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.contact-name {
+  -webkit-margin-before: 0.25em;
+  -webkit-margin-after: 1.0em;
+}
