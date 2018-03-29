@@ -89,3 +89,33 @@ a.nav-link {
 .caption {
   margin-top: 10px;
 }
+
+/* Locations */
+.locations {
+  height: 500px;
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: no-repeat center url('../images/img-locations-background.jpg');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  width: 1200px;
+  margin-bottom: 15px;
+}
+
+.location-spaces {
+  width: 980px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.location {
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+}
