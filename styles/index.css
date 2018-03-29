@@ -43,7 +43,7 @@ a.nav-link {
 }
 
 /* Mission Section */
-.mission {
+#mission {
   margin-top: 69px;
   width: 1200px;
   height: 700px;
@@ -59,12 +59,12 @@ a.nav-link {
   width: 100%;
 }
 
-.tea-of-month {
+/* Tea of the month section */
+#featured-tea {
   width: 1000px;
   margin: 100px auto 100px;
 }
 
-/* Tea of the month section */
 .top-images, .bottom-images {
   display: flex;
   justify-content: space-between;
@@ -91,7 +91,7 @@ a.nav-link {
 }
 
 /* Locations */
-.locations {
+#locations {
   height: 500px;
   width: 1200px;
   margin-right: auto;
