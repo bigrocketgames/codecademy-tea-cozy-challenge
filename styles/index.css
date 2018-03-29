@@ -130,3 +130,8 @@ a.nav-link {
   -webkit-margin-before: 0.25em;
   -webkit-margin-after: 1.0em;
 }
+
+/* Footer */
+footer {
+  text-align: left;
+}
