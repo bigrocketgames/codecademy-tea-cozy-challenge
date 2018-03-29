@@ -123,7 +123,6 @@ a.nav-link {
 /* Contact */
 .contact {
   height: 200px;
-  margin-bottom: 20px;
 }
 
 .contact-name {
@@ -133,5 +132,6 @@ a.nav-link {
 
 /* Footer */
 footer {
+  padding-left: 20px;
   text-align: left;
 }
